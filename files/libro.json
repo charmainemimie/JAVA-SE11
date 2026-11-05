@@ -1,0 +1,114 @@
+[
+  {
+    "isbn": "978-8437604947",
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "precio": 19.95,
+    "stock": 45
+  },
+  {
+    "isbn": "978-8439731689",
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "precio": 15.5,
+    "stock": 30
+  },
+  {
+    "isbn": "978-8420684314",
+    "titulo": "La sombra del viento",
+    "autor": "Carlos Ruiz Zafón",
+    "precio": 12.9,
+    "stock": 25
+  },
+  {
+    "isbn": "978-8408163176",
+    "titulo": "El código Da Vinci",
+    "autor": "Dan Brown",
+    "precio": 18.0,
+    "stock": 15
+  },
+  {
+    "isbn": "978-8497592208",
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "precio": 10.95,
+    "stock": 60
+  },
+  {
+    "isbn": "978-8466332149",
+    "titulo": "Un mundo feliz",
+    "autor": "Aldous Huxley",
+    "precio": 11.2,
+    "stock": 40
+  },
+  {
+    "isbn": "978-8498387087",
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "precio": 9.95,
+    "stock": 50
+  },
+  {
+    "isbn": "978-8420651804",
+    "titulo": "El principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "precio": 8.5,
+    "stock": 100
+  },
+  {
+    "isbn": "978-8422616221",
+    "titulo": "Pedro Páramo",
+    "autor": "Juan Rulfo",
+    "precio": 14.0,
+    "stock": 20
+  },
+  {
+    "isbn": "978-8408260226",
+    "titulo": "El principito y la rosa",
+    "autor": "Antoine de Saint-Exupéry",
+    "precio": 13.9,
+    "stock": 12
+  },
+  {
+    "isbn": "978-8499088044",
+    "titulo": "Los pilares de la Tierra",
+    "autor": "Ken Follett",
+    "precio": 22.9,
+    "stock": 18
+  },
+  {
+    "isbn": "978-8432238031",
+    "titulo": "Rayuela",
+    "autor": "Julio Cortázar",
+    "precio": 16.5,
+    "stock": 22
+  },
+  {
+    "isbn": "978-8466348638",
+    "titulo": "El nombre de la rosa",
+    "autor": "Umberto Eco",
+    "precio": 14.9,
+    "stock": 35
+  },
+  {
+    "isbn": "978-8420471839",
+    "titulo": "Ficciones",
+    "autor": "Jorge Luis Borges",
+    "precio": 13.2,
+    "stock": 28
+  },
+  {
+    "isbn": "978-8408226062",
+    "titulo": "La casa de los espíritus",
+    "autor": "Isabel Allende",
+    "precio": 17.0,
+    "stock": 19
+  },
+  {
+    "isbn": "978-1231231231",
+    "titulo": "Podries ser tu",
+    "autor": "Sergi Ambudio",
+    "precio": 10.11,
+    "stock": 11
+  }
+]
